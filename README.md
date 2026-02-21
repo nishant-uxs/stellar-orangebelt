@@ -11,7 +11,7 @@ A complete end-to-end decentralized crowdfunding mini-dApp built on the Stellar 
 
 ## 🚀 Live Demo
 
-**Live Application**: [https://stellar-yellowbelt.onrender.com](https://stellar-yellowbelt.onrender.com) ✅ **LIVE**
+**Live Application**: [https://stellar-orangebelt.onrender.com](https://stellar-orangebelt.onrender.com) ✅ **LIVE**
 
 **GitHub Repository**: https://github.com/nishant-uxs/stellar-orangebelt
 
