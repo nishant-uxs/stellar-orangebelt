@@ -37,7 +37,7 @@ A complete end-to-end decentralized crowdfunding mini-dApp built on the Stellar 
 
 ### Test Output (28 Tests Passing)
 
-![Test Output Screenshot](./test_output.png)
+![Test Output Screenshot](./test_output.jpeg)
 
 **Contract Tests (14 passing)**:
 ```
