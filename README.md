@@ -19,7 +19,7 @@ A complete end-to-end decentralized crowdfunding mini-dApp built on the Stellar 
 
 ## 🎥 Demo Video
 
-**1-Minute Demo**: *(Add your Loom/YouTube link here after recording)*
+**1-Minute Demo**: [https://youtu.be/XaodnHvi5UE](https://youtu.be/XaodnHvi5UE) ✅ **LIVE**
 
 > Shows: wallet connection, campaign creation, donation flow, balance update, target validation
 
@@ -36,6 +36,8 @@ A complete end-to-end decentralized crowdfunding mini-dApp built on the Stellar 
 - 🐂 **xBull** - Multi-platform wallet
 
 ### Test Output (28 Tests Passing)
+
+![Test Output Screenshot](./test_output.png)
 
 **Contract Tests (14 passing)**:
 ```
